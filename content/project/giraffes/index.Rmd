@@ -1,0 +1,239 @@
+---
+title: "التطوير الذاتي"
+excerpt: "خريطة التطوير الذاتي"
+author: ""
+date: 2022-02-05
+output: 
+  html_document:
+    toc: TRUE 
+layout: single-series
+categories:
+- التطوير الذاتي
+tags:
+- التطوير الذاتي
+text_align_right: TRUE
+editor_options: 
+  markdown: 
+    wrap: 80
+lang: ar
+dir: rtl
+---
+
+```{=html}
+<style>
+
+.rtl {
+direction: rtl;
+}
+
+
+p {
+direction: rtl;
+}
+
+
+figure {
+margin-bottom: 20px;
+}
+
+.rtl figcaption {
+direction: inherit;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+direction: rtl;
+}
+
+</style>
+```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, dir = "rtl")
+```
+
+::: {.rtl dir="rtl"}
+*التطوير الذاتي* ما زال يمر بتعديلات وإضافات
+
+-   الإصدار 0.112 بتأريخ 07/01/2022
+:::
+
+### مقدمة {dir="rtl"}
+
+#### تعريف بالملف {dir="rtl"}
+
+::: {.rtl dir="rtl"}
+-   محاولة لانتقاء أحسن ما اطلعت عليه في تدبر القرآن مع اجتناب الطاغوت، قاصدا
+    الإصلاح الذاتي والنمو، والوعي الفكري كذلك.
+
+-   شروط المواضيع
+
+    -   من عالم مؤهل ومتمكن - وفق معاييري
+    -   مادة صحيحة ودقيقة ولو نسبيا
+    -   مادة مجانية باللغة العربية حتى لو مترجمة
+    -   أيضا ركزت على المواد المسموعة
+    -   ليس بالضرورة أن أتفق مع ما يذكر، المهم أن تتعلم وتنظر بنفسك. فلعلك تجد
+        عبارات أو أفكارا ينطبق عليها مثل العميان والفيل
+:::
+
+#### لمن هذا العمل؟ {dir="rtl"}
+
+::: {.rtl dir="rtl"}
+-   لمن سئم من العمى والضلال حتى شاء أن يترك الظلمات إلى النور
+
+-   أو لمن شاء أن يتطور
+
+    -   أقصد جانب المعنى، العمل، العلم، النفس، العقل، القلب، الشعور، الروح
+        والوعي
+
+-   أو لمن شاء الحياة الطيبة
+
+    -   كذلك السكينة والعمل الصالح والتقوى والصبر والإحسان والشكر -- وهي مفاهيم
+        لا تعرف إلا من القرآن. انظر *ماذا يجد المتقون والذين يعملون الصالحات؟*
+:::
+
+#### كيف ممكن تفعل ذلك؟ {dir="rtl"}
+
+::: {.rtl dir="rtl"}
+-   تجرأ أن تكون شهادتك للحق وبالحق
+
+-   انظر وتفكر
+
+    -   إسأل. مثال لماذا، ماذا، كيف. ركز على الأسئلة المحورية - إلا إذا كنت ممن
+        لا يتعايشون مع الأسئلة ولهم نهج آخر
+
+-   تواضع واتق
+
+-   والذين جاهدوا فينا لنهدينهم سبلنا وإن الله لمع المحسنين -- العنكبوت 69
+
+    -   جزء كبير من لفظة جاهد يدور حول التخلي والترك، لكن عن ماذا ولماذا وكيف؟
+        أيضا جزء كبير منها عن استفراغ الوسع
+
+    -   يا ترى ما هي السبل؟
+
+-   يظهر لي أن الارتقاء في الوعي قائم على المبادئ والقيم -التي تعيشها- والأعمال
+    المتوافقة معها. لكن، أي مبادئ وأي أعمال؟ هذا سؤال تجيبه أنت
+
+    ### الأساس 1 {dir="rtl"}
+
+-   نعمان علي خان
+
+    -   [هنيئا لك تم اختيارك](https://youtu.be/JxSDyLKZH5Q) - ½ ساعة
+    -   [تدبر سورة
+        الفاتحة](https://youtube.com/playlist?list=PLUi9hIhk1yND33W_FXj0njePthGxWEtfW) -
+        2.5 ساعات
+    -   [آية الكرسي](https://youtu.be/qjs3GQNCXGA) - ¼ ساعة
+    -   [السعي أم الوصول، الكيف أم
+        الكم؟](https://www.youtube.com/watch?v=h7DnnD-XmGE&t=1s&ab_channel=%D9%8A%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%7CAmustwatch) -
+        ½ ساعة
+
+-   حسن فرحان
+
+    -   [غايات القرآن
+        الكريم](https://www.youtube.com/watch?v=MXufTJj9irg&ab_channel=Halmalki) -
+        ساعة
+    -   [واتقوه](https://www.youtube.com/playlist?list=PLaeLLCgliUNuSqR7_W5ayRkktbRTGCdTK)
+        -- 30 حلقة في 10 ساعات
+
+-   نعمان علي خان
+
+    -   [الله والنبي
+        الأكرم](https://www.youtube.com/playlist?list=PLavM-FTx_wSO8RhilMgtoi5x-RyiDT3yp) -
+        16 حلقة في 7 ساعات
+
+    -   [4 هجمات
+        لإبليس](https://www.youtube.com/playlist?list=PLavM-FTx_wSOMBAFtSsWlxegURwoq0jwD) -
+        8 حلقات في 3.5 ساعات
+
+    -   مقدمة لمؤامرات قائد الضلال ولمشروعه.
+
+    -   أقترح أن لا تشاهد أكثر من حلقة أو حلقتين في
+        الاسبوع لأنه قد يكون ثقيلا.
+
+    -   يظهر لي أن شكر الناس يدور حول تفعيل نعم الله في الخير. ذلك لأنه غياب
+        الكفر، والكفر له معانٍ منها تعطيل النعم والتغطية عن علم على الحق. انظر
+        واتقوه آخر 5 حلقات 
+
+    -   [فإن مع العسر يسرا، إن مع العسر
+        يسرا](https://www.youtube.com/watch?v=0PYiouCbRBo&t=1s&ab_channel=%D9%8A%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%7CAmustwatch) -
+        ½ ساعة
+
+### الأساس 2 {.rtl dir="rtl"}
+
+-   داوود أبو سنان
+
+    -   [الذكر
+        والتسبيح](https://youtube.com/playlist?list=PLavM-FTx_wSOmKh6OzUBve90cYmUqj3dr) -
+        3 حلقات في 3 ساعات
+    -   يظهر لي بأن الذكر يدور مقصوده حول التذكر القلبي والشعوري، ويكون الذكر
+        اللفظي أحد وسائله الكثيرة. انظر *غايتا الذكر والتذكر*
+
+-   نعمان علي خان
+
+    -   [أنر قلبك](https://youtu.be/Bsy4LyhjtUw) - ½ ساعة
+    -   آية النور قدم لها في آخر حلقة من *الله
+        والنبي الأكرم*
+
+-   [لقمان الحكيم مع
+    ابنه](https://youtube.com/playlist?list=PLUi9hIhk1yNAx_B57PoTdmsnyRcwg7oSy)
+    -- 12 حلقة في 6 ساعات
+
+    -   يظهر لي أن شكر الناس يدور حول تفعيل نعم الله في الخير. ذلك لأنه غياب
+        الكفر، والكفر له معانٍ منها تعطيل النعم والتغطية عن علم على الحق. انظر
+        *واتقوه آخر 5 حلقات*
+
+-   حسن فرحان
+
+    -   [ملة
+        إبراهيم](https://www.youtube.com/playlist?list=PLMhVe51jzgxY1C3Ey8C8uulrDMbsLgQ74)
+        -- 5 حلقات في 3 ساعات
+    -   درس صوتي جيد في كيفية التدبر    
+
+-   [بعض محاور الشفاء
+    النفسي](https://www.youtube.com/playlist?list=PLavM-FTx_wSNdOKYcHFsofJWgqpZ_R6Q5)
+
+    -   حاليا عن: الحزن، الغضب، القول السديد،
+
+#### طبقات أخرى للنمو {.rtl dir="rtl"}
+
+-   وليد فتيحي
+
+    -   [ومحياي
+        1](https://www.youtube.com/playlist?list=PLLv7VhDO2xzXNVUbBD-7GSOhhZ6W8cKPX)
+         - [ومحياي
+        2](https://www.youtube.com/playlist?list=PLLv7VhDO2xzWDvgZQgW7v6i_ATyVTB2rH) -
+        [ومحياي
+        4](https://www.youtube.com/playlist?list=PLLv7VhDO2xzVL2KhPecbRgsFYfJgn7fxJ)
+
+-   منصة TED
+
+    -   [مقترحات](https://www.youtube.com/playlist?list=PLavM-FTx_wSPhC2hPj-qqhhVNEb6kHo7S)
+
+-   محمد حاجي
+
+    -   [بودكاست
+        معنى](https://www.youtube.com/playlist?list=PLu2pO3Iv0VFdIF_x93mNrIQBhK_fSYjw1)
+        -- 4 حلقات في 3.5 ساعات
+
+    -   [سلسلة](https://www.youtube.com/playlist?list=PLYpYTXam-JvczdUFCS5nnBa3Z1LcVqga3)
+        من أكثر من 250 مقطع صغير، انتق منها ما يناسبك
+
+#### الوعي الفكري  {.rtl dir="rtl"}
+
+-   باسل الطائي
+
+    -   مقترحات لاحقا
+
+#### المقروء {.rtl dir="rtl"}
+
+-   [أركان الإسلام في
+    القرأن!](http://elqalamcenter.com/2018/03/30/%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A3%D9%84%D8%A3%D9%88%D9%91%D9%84/?utm_source=pocket_mylist)
+    -- ¾ ساعة
+
+    -   إقرأ الجزء الأول قراءة سريعة إن شئت
+
+-   [القرآن بين مهجور المعنى ومهجور
+    اللفظ](http://almaliky.org/subject.php?id=1064&utm_source=pocket_mylist) --
+    3 دقائق
+
+    -   توسع إن شئت في الروابط الموجودة في الأسفل
+:::

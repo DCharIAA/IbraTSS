@@ -1,6 +1,15 @@
 baseURL = "https://ibratss.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
+defaultContentLanguage = "en"
+[languages]
+  [languages.ar]
+    languagedirection = "rtl"
+    title = ""
+    weight = 2
+  [languages.en]
+    title = ''
+    weight = 1
 title = "Signal Cores"
 author = "IbraTSS"
 copyright = "" # set to override the auto generated copyright using org info and now year
