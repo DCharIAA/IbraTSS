@@ -115,80 +115,69 @@ knitr::opts_chunk$set(echo = FALSE, dir = "auto")
 
 ### الأساس 0 {dir="rtl"}
 
--   نعمان علي خان
+-   [هنيئا لك تم اختيارك](https://youtu.be/JxSDyLKZH5Q) - ½ ساعة - نعمان خان
 
-    -   [هنيئا لك تم اختيارك](https://youtu.be/JxSDyLKZH5Q) - ½ ساعة
-    -   [تدبر سورة
-        الفاتحة](https://youtube.com/playlist?list=PLUi9hIhk1yND33W_FXj0njePthGxWEtfW) -
-        2.5 ساعات
-    -   [آية الكرسي](https://youtu.be/qjs3GQNCXGA) - ¼ ساعة
-    -   [السعي أم الوصول، الكيف أم
-        الكم؟](https://www.youtube.com/watch?v=h7DnnD-XmGE&t=1s&ab_channel=%D9%8A%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%7CAmustwatch) -
-        ½ ساعة
+-   [تدبر سورة
+    الفاتحة](https://youtube.com/playlist?list=PLUi9hIhk1yND33W_FXj0njePthGxWEtfW) -
+    2.5 ساعات - نعمان خان
 
--   حسن فرحان
+-   [آية الكرسي](https://youtu.be/qjs3GQNCXGA) - ¼ ساعة - نعمان خان
 
-    -   [غايات القرآن
-        الكريم](https://www.youtube.com/watch?v=MXufTJj9irg&ab_channel=Halmalki) -
-        ساعة
-    -   [واتقوه](https://www.youtube.com/playlist?list=PLaeLLCgliUNuSqR7_W5ayRkktbRTGCdTK)
-        -- 30 حلقة في 10 ساعات
+-   [السعي أم الوصول، الكيف أم
+    الكم؟](https://www.youtube.com/watch?v=h7DnnD-XmGE&t=1s&ab_channel=%D9%8A%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%7CAmustwatch) -
+    ½ ساعة - نعمان خان
 
--   نعمان علي خان
+-   [غايات القرآن
+    الكريم](https://www.youtube.com/watch?v=MXufTJj9irg&ab_channel=Halmalki) -
+    ساعة - حسن فرحان
 
-    -   [الله والنبي
-        الأكرم](https://www.youtube.com/playlist?list=PLavM-FTx_wSO8RhilMgtoi5x-RyiDT3yp) -
-        16 حلقة في 7 ساعات
+-   [واتقوه](https://www.youtube.com/playlist?list=PLaeLLCgliUNuSqR7_W5ayRkktbRTGCdTK)
+    -- 30 حلقة في 10 ساعات - حسن فرحان
 
-    -   [4 هجمات
-        لإبليس](https://www.youtube.com/playlist?list=PLavM-FTx_wSOMBAFtSsWlxegURwoq0jwD) -
-        8 حلقات في 3.5 ساعات
+-   [الله والنبي
+    الأكرم](https://www.youtube.com/playlist?list=PLavM-FTx_wSO8RhilMgtoi5x-RyiDT3yp) -
+    16 حلقة في 7 ساعات - نعمان خان
 
-        -   مقدمة لمؤامرات قائد الضلال ولمشروعه.
+-   [4 هجمات
+    لإبليس](https://www.youtube.com/playlist?list=PLavM-FTx_wSOMBAFtSsWlxegURwoq0jwD) -
+    8 حلقات في 3.5 ساعات - نعمان خان
 
-        -   أقترح أن لا تشاهد أكثر من حلقة أو حلقتين في الاسبوع لأنه قد يكون
-            ثقيلا.
+    -   مقدمة لمؤامرات قائد الضلال ولمشروعه.
+    -   أقترح أن لا تشاهد أكثر من حلقة أو حلقتين في الاسبوع لأنه قد يكون ثقيلا.
+    -   يظهر لي أن شكر الناس يدور حول تفعيل نعم الله في الخير. ذلك لأنه غياب
+        الكفر، والكفر له معانٍ منها تعطيل النعم والتغطية عن علم على الحق. انظر
+        واتقوه آخر 5 حلقات 
 
-        -   يظهر لي أن شكر الناس يدور حول تفعيل نعم الله في الخير. ذلك لأنه غياب
-            الكفر، والكفر له معانٍ منها تعطيل النعم والتغطية عن علم على الحق.
-            انظر واتقوه آخر 5 حلقات 
+-   [فإن مع العسر يسرا، إن مع العسر
+    يسرا](https://www.youtube.com/watch?v=0PYiouCbRBo&t=1s&ab_channel=%D9%8A%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%7CAmustwatch) -
+    ½ ساعة - نعمان خان
 
-    -   [فإن مع العسر يسرا، إن مع العسر
-        يسرا](https://www.youtube.com/watch?v=0PYiouCbRBo&t=1s&ab_channel=%D9%8A%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%7CAmustwatch) -
-        ½ ساعة
+### الأساس 1 {.rtl dir="rtl"}
 
-###  الأساس 1 {.rtl dir="rtl"}
+-   [الذكر
+    والتسبيح](https://youtube.com/playlist?list=PLavM-FTx_wSOmKh6OzUBve90cYmUqj3dr) -
+    3 حلقات في 3 ساعات - داوود أبو سنان
 
--   داوود أبو سنان
+    -   يظهر لي بأن الذكر يدور مقصوده حول التذكر القلبي والشعوري، ويكون الذكر
+        اللفظي أحد وسائله الكثيرة. انظر *غايتا الذكر والتذكر*
 
-    -   [الذكر
-        والتسبيح](https://youtube.com/playlist?list=PLavM-FTx_wSOmKh6OzUBve90cYmUqj3dr) -
-        3 حلقات في 3 ساعات
+-   [أنر قلبك](https://youtu.be/Bsy4LyhjtUw) - ½ ساعة - نعمان خان
 
-        -   يظهر لي بأن الذكر يدور مقصوده حول التذكر القلبي والشعوري، ويكون
-            الذكر اللفظي أحد وسائله الكثيرة. انظر *غايتا الذكر والتذكر*
+    -   آية النور قدم لها في آخر حلقة من *الله والنبي الأكرم*
 
--   نعمان علي خان
+-   [لقمان الحكيم مع
+    ابنه](https://youtube.com/playlist?list=PLUi9hIhk1yNAx_B57PoTdmsnyRcwg7oSy)
+    -- 12 حلقة في 6 ساعات - نعمان خان
 
-    -   [أنر قلبك](https://youtu.be/Bsy4LyhjtUw) - ½ ساعة
+    -   يظهر لي أن شكر الناس يدور حول تفعيل نعم الله في الخير. ذلك لأنه غياب
+        الكفر، والكفر له معانٍ منها تعطيل النعم والتغطية عن علم على الحق. انظر
+        *واتقوه آخر 5 حلقات*
 
-        -   آية النور قدم لها في آخر حلقة من *الله والنبي الأكرم*
+-   [ملة
+    إبراهيم](https://www.youtube.com/playlist?list=PLMhVe51jzgxY1C3Ey8C8uulrDMbsLgQ74)
+    -- 5 حلقات في 3 ساعات - حسن فرحان
 
-    -   [لقمان الحكيم مع
-        ابنه](https://youtube.com/playlist?list=PLUi9hIhk1yNAx_B57PoTdmsnyRcwg7oSy)
-        -- 12 حلقة في 6 ساعات
-
-        -   يظهر لي أن شكر الناس يدور حول تفعيل نعم الله في الخير. ذلك لأنه غياب
-            الكفر، والكفر له معانٍ منها تعطيل النعم والتغطية عن علم على الحق.
-            انظر *واتقوه آخر 5 حلقات*
-
--   حسن فرحان
-
-    -   [ملة
-        إبراهيم](https://www.youtube.com/playlist?list=PLMhVe51jzgxY1C3Ey8C8uulrDMbsLgQ74)
-        -- 5 حلقات في 3 ساعات
-
-        -   درس صوتي جيد في كيفية التدبر    
+    -   درس صوتي جيد في كيفية التدبر
 
 -   [بعض محاور الشفاء
     النفسي](https://www.youtube.com/playlist?list=PLavM-FTx_wSNdOKYcHFsofJWgqpZ_R6Q5)
