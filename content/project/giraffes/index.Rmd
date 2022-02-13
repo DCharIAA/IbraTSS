@@ -206,7 +206,7 @@ knitr::opts_chunk$set(echo = FALSE, dir = "auto")
         -- 4 حلقات في 3.5 ساعات
 
     -   [سلسلة](https://www.youtube.com/playlist?list=PLYpYTXam-JvczdUFCS5nnBa3Z1LcVqga3)
-        من أكثر من 250 مقطع صغير، انتق منها ما يناسبك
+        من أكثر من 80 مقطع صغير، انتق منها ما يناسبك
 
 #### الوعي الفكري {.rtl dir="rtl"}
 
