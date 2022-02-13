@@ -113,7 +113,7 @@ knitr::opts_chunk$set(echo = FALSE, dir = "rtl")
 -   يظهر لي أن الارتقاء في الوعي قائم على المبادئ والقيم -التي تعيشها- والأعمال
     المتوافقة معها. لكن، أي مبادئ وأي أعمال؟ هذا سؤال تجيبه أنت
 
-    ### الأساس 1 {dir="rtl"}
+    ### الأساس 0 {dir="rtl"}
 
 -   نعمان علي خان
 
@@ -146,8 +146,7 @@ knitr::opts_chunk$set(echo = FALSE, dir = "rtl")
 
     -   مقدمة لمؤامرات قائد الضلال ولمشروعه.
 
-    -   أقترح أن لا تشاهد أكثر من حلقة أو حلقتين في
-        الاسبوع لأنه قد يكون ثقيلا.
+    -   أقترح أن لا تشاهد أكثر من حلقة أو حلقتين في الاسبوع لأنه قد يكون ثقيلا.
 
     -   يظهر لي أن شكر الناس يدور حول تفعيل نعم الله في الخير. ذلك لأنه غياب
         الكفر، والكفر له معانٍ منها تعطيل النعم والتغطية عن علم على الحق. انظر
@@ -157,7 +156,7 @@ knitr::opts_chunk$set(echo = FALSE, dir = "rtl")
         يسرا](https://www.youtube.com/watch?v=0PYiouCbRBo&t=1s&ab_channel=%D9%8A%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%7CAmustwatch) -
         ½ ساعة
 
-### الأساس 2 {.rtl dir="rtl"}
+###  الأساس 1 {.rtl dir="rtl"}
 
 -   داوود أبو سنان
 
@@ -170,8 +169,7 @@ knitr::opts_chunk$set(echo = FALSE, dir = "rtl")
 -   نعمان علي خان
 
     -   [أنر قلبك](https://youtu.be/Bsy4LyhjtUw) - ½ ساعة
-    -   آية النور قدم لها في آخر حلقة من *الله
-        والنبي الأكرم*
+    -   آية النور قدم لها في آخر حلقة من *الله والنبي الأكرم*
 
 -   [لقمان الحكيم مع
     ابنه](https://youtube.com/playlist?list=PLUi9hIhk1yNAx_B57PoTdmsnyRcwg7oSy)
@@ -217,7 +215,7 @@ knitr::opts_chunk$set(echo = FALSE, dir = "rtl")
     -   [سلسلة](https://www.youtube.com/playlist?list=PLYpYTXam-JvczdUFCS5nnBa3Z1LcVqga3)
         من أكثر من 250 مقطع صغير، انتق منها ما يناسبك
 
-#### الوعي الفكري  {.rtl dir="rtl"}
+#### الوعي الفكري {.rtl dir="rtl"}
 
 -   باسل الطائي
 
@@ -226,7 +224,7 @@ knitr::opts_chunk$set(echo = FALSE, dir = "rtl")
 #### المقروء {.rtl dir="rtl"}
 
 -   [أركان الإسلام في
-    القرأن!](http://elqalamcenter.com/2018/03/30/%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A3%D9%84%D8%A3%D9%88%D9%91%D9%84/?utm_source=pocket_mylist)
+    القرآن!](http://elqalamcenter.com/2018/03/30/%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A3%D9%84%D8%A3%D9%88%D9%91%D9%84/?utm_source=pocket_mylist)
     -- ¾ ساعة
 
     -   إقرأ الجزء الأول قراءة سريعة إن شئت
