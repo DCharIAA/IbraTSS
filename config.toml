@@ -29,7 +29,7 @@ enableEmoji = true
     unsafe = true  # Enable user to embed HTML snippets in Markdown content.
     hardwraps = false 
   [markup.tableOfContents]
-    startLevel = 1
+    startLevel = 3
     endLevel = 4
     ordered = false
   [markup.highlight]
